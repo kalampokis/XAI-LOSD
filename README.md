@@ -1,2 +1,2 @@
 # XAI-LOSD
-XAI on linked data from the Scottish Government's Portal (Submitted in EGOV2021)
+XAI on linked data from the Scottish government data portal (http://statistics.gov.scot). Code from a paper submitted in EGOV2021 conference.
