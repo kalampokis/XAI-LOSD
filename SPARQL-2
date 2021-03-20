@@ -1,0 +1,8 @@
+SELECT distinct?b
+WHERE {
+ ?a qb:dataSet  ?b;
+   <http://purl.org/linked-data/sdmx/2009/dimension#refPeriod> <http://reference.data.gov.uk/id/year/2017> .
+   
+  ?a <http://purl.org/linked-data/sdmx/2009/dimension#refArea>  [?m <http://statistics.gov.scot/def/foi/collection/data-zones-2011> ].
+
+}
